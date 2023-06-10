@@ -1,1 +1,5 @@
-texto que entre en conflicto con references.md
+
+# References
+
+* octocat 1 😈
+
